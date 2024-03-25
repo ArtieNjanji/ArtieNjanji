@@ -1,4 +1,8 @@
-### Hi there 👋
+
+## Hi there 👋, I'm ARTWELL NJANJI
+
+
+## React Soucer
 
 <!--
 **ArtieNjanji/ArtieNjanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
