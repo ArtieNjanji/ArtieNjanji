@@ -1,8 +1,5 @@
-
-## Hi there 👋, I'm ARTWELL NJANJI
-
-
-## React Soucer
+![Screenshot 2024-03-26 172135](https://github.com/ArtieNjanji/ArtieNjanji/assets/79047710/84b9bebb-271b-46ed-b429-2d7ee4a0ab93)
+##                       Hi there 👋, I'm ARTWELL NJANJI
 
 <!--
 **ArtieNjanji/ArtieNjanji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
